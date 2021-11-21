@@ -2,10 +2,6 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import App from './App'
 import './index.css'
-import './styles/algolia.css';
-import './styles/index.css';
-import './styles/sandpack.css';
-import '@codesandbox/sandpack-react/dist/index.css';
 
 ReactDOM.render(
   <React.StrictMode>
